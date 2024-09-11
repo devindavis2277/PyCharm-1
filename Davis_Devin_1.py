@@ -1,9 +1,6 @@
 # Devin Davis
-# COT5480
-# PID 3921337
-# 8/31/2024
-# de545945@ucf.edu
-# For this week's assignment, I was to print dictionary statements and run them with the correct codes using the lists keys and values.
+
+# For this project, I was to print dictionary statements and run them with the correct codes using the lists keys and values.
 
 keys = ['GOOGL', 'META', 'MSFT']
 
